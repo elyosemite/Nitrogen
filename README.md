@@ -1,2 +1,2 @@
 # RubyCookBook
-Those codes is from CookBook Ruby book
+Those codes are from CookBook Ruby book
