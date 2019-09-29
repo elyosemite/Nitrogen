@@ -10,7 +10,8 @@ hash = { "key1" => "val1",
 	     "key5" => "val5",
 	     "key6" => "val6",
 	     "key7" => "val7",
-	     "key8" => "val8", }
+	     "key8" => "val8",
+	     "key9" => "val9", }
 
 string = ""
 hash.each { |k,v| string << "#{k} is #{v}\n" }
