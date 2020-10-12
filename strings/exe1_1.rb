@@ -1,7 +1,6 @@
 # Problem
 # You want to iterate over a data structure, building a string it as you do.
 
-
 # Part I
 hash = { "key1" => "val1", 
 	     "key2" => "val2",
