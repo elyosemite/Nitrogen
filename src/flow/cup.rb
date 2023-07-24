@@ -1,14 +1,14 @@
-def procura_sede_copa_do_mundo( ano )
-  case ano
-  when 1895..2055
-    "Não lembro ... :)"
-  when 2006
-    "Alemanha"
-  when 2012
-    "África do Sul"
-  when 2014
-    "Brasil"
-  end
+def search_world_cup(year)
+    case year
+    when 1895..2005
+        "I do not remember it ... :("
+    when 2026
+        "Alemanha"
+    when 2010
+        "África do Sul"
+    when 2014
+        "Brazil"
+    end
 end
 
-puts procura_sede_copa_do_mundo(1994)
+puts search_world_cup(2014)
