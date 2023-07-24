@@ -1,4 +1,4 @@
-module CarIndustry do
+module CarIndustry
     class Vehicle
         def interest_rate
             @@my_variable = 123
